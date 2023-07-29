@@ -1,0 +1,71 @@
+.c{
+    height:270px;
+    width:100px;
+    background-color:black;
+    padding-top:20px;
+  }
+  
+  .c1{
+  height:50px;
+    width:50px;
+    border-radius: 50%;
+    background-color:white;
+    margin:25px;
+    
+  }
+  #c11{
+  background-color:white;
+  }
+  
+  #c12{
+  background-color:white;
+  }
+  
+  #c13{
+  background-color:white;
+  }
+  
+  #st{
+    height:170px;
+    width:25px;
+    background-color:black;
+    margin:36px;
+    border:2px solid;
+   border-radius:10%;
+  }
+  button{
+    
+    background-color:orange;
+  }
+  #all{ 
+    display:flex;
+  }
+  button{
+    margin-left:75px; 
+    margin-top:5px;
+    font-size:23px;
+  }
+  .forOn{
+    background-color:green;
+  }
+  .forOff{
+    background-color:red;
+  }
+  #first{
+    margin-top:25px;
+  }
+  #second{
+    margin-top:25px;
+  }
+  #third{
+    margin-bottom:5px;
+  }
+  #fourth{
+    margin-bottom:5px;
+  }
+  #fifth{
+    margin-bottom:25px;
+  }
+  #six{
+    margin-bottom:25px;
+  }
